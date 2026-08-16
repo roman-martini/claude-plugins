@@ -1,0 +1,22 @@
+{
+  "name": "roman-dev",
+  "owner": {
+    "name": "Roman Martini",
+    "email": "roman.martini.dev@gmail.com"
+  },
+  "description": "Marketplace único de los plugins de Claude Code de Roman Martini. Cada plugin vive en su propio repo; este hub solo cataloga.",
+  "plugins": [
+    {
+      "name": "as",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/roman-martini/agent-studio.git",
+        "path": "plugins/as"
+      },
+      "description": "Meta-agentes para Claude Code: construir, revisar y mejorar agentes, skills y blueprints, con knowledge base integrada y catálogo de blueprints para scaffolding.",
+      "author": {
+        "name": "Roman Martini"
+      }
+    }
+  ]
+}
