@@ -19,6 +19,18 @@
       }
     },
     {
+      "name": "cfg",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/roman-martini/agent-configs.git",
+        "path": "plugins/cfg"
+      },
+      "description": "Configura artefactos recurrentes en el repo actual: CLAUDE.md, OpenSpec, CI y hooks. Cada comando investiga las best practices vigentes contra fuentes vivas, explora el repo y genera configuración verificada.",
+      "author": {
+        "name": "Roman Martini"
+      }
+    },
+    {
       "name": "pd",
       "source": {
         "source": "git-subdir",
