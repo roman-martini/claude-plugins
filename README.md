@@ -16,8 +16,9 @@ Actualizaciones: `/plugin update as@roman-dev` (hay update cuando el plugin bump
 | Plugin | Repo fuente | Qué es |
 |---|---|---|
 | `as` | [agent-studio](https://github.com/roman-martini/agent-studio) (`plugins/as/`) | Meta-agentes: construir, revisar y mejorar agentes, skills y blueprints + catálogo de blueprints |
-
-Pendiente de sumar: `cfg` (agent-configs).
+| `cfg` | [agent-configs](https://github.com/roman-martini/agent-configs) (`plugins/cfg/`) | Configura artefactos recurrentes del repo actual: CLAUDE.md, OpenSpec, CI y hooks |
+| `pd` | [agent-product](https://github.com/roman-martini/agent-product) (`plugins/pd/`) | Estándar `docs/product/`: intakes, épicas, HUs, decisiones y preguntas abiertas |
+| `arch` | [agent-architect](https://github.com/roman-martini/agent-architect) (`plugins/arch/`) | Arquitectos de software: router + 5 especialistas que producen decisiones con trade-offs y ADRs |
 
 ## Migración desde el paquete npm (`@roman-agents/agent-studio`)
 

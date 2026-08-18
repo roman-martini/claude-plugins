@@ -41,6 +41,18 @@
       "author": {
         "name": "Roman Martini"
       }
+    },
+    {
+      "name": "arch",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/roman-martini/agent-architect.git",
+        "path": "plugins/arch"
+      },
+      "description": "Arquitectos de software para Claude Code: un router que clasifica la consulta y cinco especialistas (backend, frontend, data, cloud, security) que producen decisiones con trade-offs explícitos, ADRs en formato MADR y diagramas Mermaid.",
+      "author": {
+        "name": "Roman Martini"
+      }
     }
   ]
 }
