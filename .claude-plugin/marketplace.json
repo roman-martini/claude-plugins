@@ -53,6 +53,18 @@
       "author": {
         "name": "Roman Martini"
       }
+    },
+    {
+      "name": "hu",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/roman-martini/agent-agp.git",
+        "path": "plugins/hu"
+      },
+      "description": "Ciclo de refinamiento de Historias de Usuario sobre OpenSpec: del ticket de Jira al change refinado, con análisis de impacto cross-repo, ida y vuelta de preguntas con el AFU, consolidación en la HU y generación de subtareas.",
+      "author": {
+        "name": "Roman Martini"
+      }
     }
   ]
 }
