@@ -37,7 +37,7 @@
         "url": "https://github.com/roman-martini/agent-product.git",
         "path": "plugins/pd"
       },
-      "description": "Inicia y mantiene el estándar docs/product/ en cualquier repositorio: intakes, épicas, historias de usuario, decisiones y preguntas abiertas. Agnóstico del producto y de la tecnología.",
+      "description": "Inicia y mantiene el estándar docs/product/ en cualquier repositorio: intakes, épicas e historias de usuario. Agnóstico del producto y de la tecnología.",
       "author": {
         "name": "Roman Martini"
       }
