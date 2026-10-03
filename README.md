@@ -19,6 +19,7 @@ Actualizaciones: `/plugin update as@roman-dev` (hay update cuando el plugin bump
 | `cfg` | [agent-configs](https://github.com/roman-martini/agent-configs) (`plugins/cfg/`) | Configura artefactos recurrentes del repo actual: CLAUDE.md, OpenSpec, CI y hooks |
 | `pd` | [agent-product](https://github.com/roman-martini/agent-product) (`plugins/pd/`) | Estándar `docs/product/`: intakes, épicas e HUs |
 | `arch` | [agent-architect](https://github.com/roman-martini/agent-architect) (`plugins/arch/`) | Arquitectos de software: router + 5 especialistas que producen decisiones con trade-offs y ADRs |
+| `ds` | [agent-design](https://github.com/roman-martini/agent-design) (`plugins/ds/`) | Dirige y audita diseño web hecho con las herramientas de diseño de Anthropic: pedidos por etapa, crítica del canvas renderizado y handoff |
 
 ## Migración desde el paquete npm (`@roman-agents/agent-studio`)
 
