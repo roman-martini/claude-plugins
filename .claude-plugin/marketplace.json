@@ -73,7 +73,7 @@
         "url": "https://github.com/roman-martini/agent-design.git",
         "path": "plugins/ds"
       },
-      "description": "Dirige y audita diseño web hecho con las herramientas de diseño de Anthropic: /ds:ds lleva un encargo del brief al handoff, deja listo cada pedido —rutas, pantallas, design system— para que lo generes con /design y el tipo Design System, audita cada canvas renderizado por procedencia, craft y clichés de diseño IA, y empaqueta el handoff. No genera ni construye.",
+      "description": "Arma el brief de un encargo de diseño web y lo confirma con quien encarga: contrasta el pedido contra un contrato de entrada —objetivo, audiencia, proposición única, inventario, acción primaria, marca, restricciones y competencia—, releva la competencia que falta y guarda el brief sellado en ds/<encargo>/brief.md. No diseña ni construye.",
       "author": {
         "name": "Roman Martini"
       }
