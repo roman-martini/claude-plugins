@@ -73,7 +73,7 @@
         "url": "https://github.com/roman-martini/agent-design.git",
         "path": "plugins/ds"
       },
-      "description": "Arma el brief de un encargo de diseño web y lo confirma con quien encarga: contrasta el pedido contra un contrato de entrada —objetivo, audiencia, proposición única, inventario, acción primaria, marca, restricciones y competencia—, releva la competencia que falta y guarda el brief sellado en ds/<encargo>/brief.md. No diseña ni construye.",
+      "description": "Arma el brief de un encargo de diseño web y lo confirma con quien encarga, contrastando el pedido contra un contrato de entrada, y junta las referencias que lo alimentan: captura galerías y sitios reales, mide su paleta, tipografía e imágenes, y produce el material de cada referencia —fotos en alta, logos en SVG y alternativas de marca propias—, y deriva de un DS base el design system del producto con los valores y los componentes de una referencia. No construye el sitio.",
       "author": {
         "name": "Roman Martini"
       }
