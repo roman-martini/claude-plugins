@@ -19,7 +19,7 @@ Actualizaciones: `/plugin update as@roman-dev` (hay update cuando el plugin bump
 | `cfg` | [agent-configs](https://github.com/roman-martini/agent-configs) (`plugins/cfg/`) | Configura artefactos recurrentes del repo actual: CLAUDE.md, OpenSpec, CI y hooks |
 | `pd` | [agent-product](https://github.com/roman-martini/agent-product) (`plugins/pd/`) | Estándar `docs/product/`: intakes, épicas e HUs |
 | `arch` | [agent-architect](https://github.com/roman-martini/agent-architect) (`plugins/arch/`) | Arquitectos de software: router + 5 especialistas que producen decisiones con trade-offs y ADRs |
-| `ds` | [agent-design](https://github.com/roman-martini/agent-design) (`plugins/ds/`) | Arma y confirma el brief de un encargo de diseño web, junta referencias y produce su material —fotos, logos en SVG, alternativas de marca—, y deriva un design system desde un DS base y una referencia. No construye el sitio |
+| `ds` | [agent-design](https://github.com/roman-martini/agent-design) (`plugins/ds/`) | Arma y confirma el brief de un encargo de diseño web, junta referencias y produce su material —fotos, logos en SVG, alternativas de marca—, y deriva el calco de una referencia desde un DS base, para estudiarla. No construye el sitio |
 
 ## Migración desde el paquete npm (`@roman-agents/agent-studio`)
 
